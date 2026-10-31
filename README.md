@@ -11,7 +11,7 @@
 
 ## 🚀 Featured Projects
 - 👨‍💻 [Shani Portfolio](https://github.com/shaniydvweb1010/shaniydvweb1010) — Personal Portfolio
-- 🪨 [ROCKRUSH](https://github.com/shaniydvweb1010/ROCKRUSH) — Rock Paper Scissors Game
+- 🪨 [ROCKRUSH](https://rockrush-rock-paper-scissors.netlify.app/?) — Rock Paper Scissors Game
 - 🚤 [BLUETITAN](https://github.com/shaniydvweb1010/BLUETITAN-RESERVATIONS-SYSTEM) — Boat Booking System
 - 🥛 [Yadav Dairy](https://github.com/shaniydvweb1010/yadav-dairy) — Online Dairy Platform
 
