@@ -14,7 +14,7 @@
 - 🪨 [ROCKRUSH](https://rockrush-rock-paper-scissors.netlify.app/?) — Rock Paper Scissors Game
 - 🥛 [Yadav Dairy](https://online-yadav-dairy-producats.netlify.app/) — Online Dairy Platform
 - 👨‍💻 [Shani Portfolio](https://github.com/shaniydvweb1010/shaniydvweb1010) — Personal Portfolio
-- 🚤 [BLUETITAN](https://github.com/shaniydvweb1010/BLUETITAN-RESERVATIONS-SYSTEM) — Boat Booking System
+- 🚤 [BLUETITAN](https://boatbookingsystem.great-site.net/bbs/?utm_source=chatgpt.com) — Boat Booking System
 
 
 # 📊 GitHub Stats:
