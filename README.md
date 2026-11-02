@@ -11,7 +11,7 @@
 
 ## 🚀 Featured Projects
 - 🪨 [LANDING PAGE](https://webdev-l1-landingpage.netlify.app/) —  Landing page using HTML5 and CSS3
-- 👨‍💻 [Shani Portfolio](https://github.com/shaniydvweb1010/shaniydvweb1010) — Personal Portfolio
+- 👨‍💻 [Shani Portfolio](https://shaniyadavportfolio1010.netlify.app/#experience) — Personal Portfolio
 - 🪨 [ROCKRUSH](https://rockrush-rock-paper-scissors.netlify.app/?) — Rock Paper Scissors Game
 - 🥛 [Yadav Dairy](https://online-yadav-dairy-producats.netlify.app/) — Online Dairy Platform
 - 🚤 [BLUETITAN](https://boatbookingsystem.great-site.net/bbs/?utm_source=chatgpt.com) — Boat Booking System
