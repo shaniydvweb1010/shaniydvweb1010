@@ -10,12 +10,13 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## 🚀 Featured Projects
-- 🪨 [LANDING PAGE](https://webdev-l1-landingpage.netlify.app/) —  Landing page using HTML5 and CSS3
-- 👨‍💻 [Shani Portfolio](https://shaniyadavportfolio1010.netlify.app/) — Personal Portfolio
-- 🪨 [ROCKRUSH](https://rockrush-rock-paper-scissors.netlify.app/?) — Rock Paper Scissors Game
+- 🪨 [LANDING PAGE](https://webdev-l1-landingpage.netlify.app/) —  Landing page using HTML5 and CSS3.
+- 👨‍💻 [Shani Portfolio](https://shaniyadavportfolio1010.netlify.app/) — Personal Portfolio .
+- 🪨 [ROCKRUSH](https://rockrush-rock-paper-scissors.netlify.app/?) — Rock Paper Scissors Game.
 - 🧮 [SmartCalc Pro](https://smartvoicecalcpro10.netlify.app) —  SmartCalc Pro – A Smart & Interactive Calculator, built using HTML, CSS, and JavaScript.
-- 🥛 [Yadav Dairy](https://online-yadav-dairy-producats.netlify.app/) — Online Dairy Platform
-- 🚤 [BLUETITAN](https://boatbookingsystem.great-site.net/bbs/?utm_source=chatgpt.com) — Boat Booking System
+- 🥛 [Yadav Dairy](https://online-yadav-dairy-producats.netlify.app/) — Online Dairy Platform.
+- 🚤 [BLUETITAN](https://boatbookingsystem.great-site.net/bbs/?utm_source=chatgpt.com) — Boat Booking System.
+- 🪨 [Temperature Converter ](https://temperature-converter-01.netlify.app/) — Temperature Converter - HTML5 • CSS3 • JavaScript.
 
 
 # 📊 GitHub Stats:
